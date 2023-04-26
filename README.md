@@ -34,6 +34,8 @@ The swap_pointers() function takes two pointers to pointers to characters as inp
 It first declares a temporary pointer temp to store the value of the first input argument a. 
 It then assigns the value of the second input argument b to a, and the value of temp to b. 
 As a result, the values of the two pointers passed to the function are swapped.
+![Screenshot (300)](https://user-images.githubusercontent.com/125993593/234434469-3d41c5da-a29f-4e94-a385-d1e62f302b92.png)
+
 ### Algorithm
 1. Start the program.
 2. Declare two integer variables num1 and num2.
